@@ -3,6 +3,16 @@
 	"EngineAssociation": "{F4A32F1C-4F63-8E68-27F1-ED9E162AE46B}",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "ProjectFO_AIEGJ19",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"PhysXVehicles"
+			]
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "PhysXVehicles",
